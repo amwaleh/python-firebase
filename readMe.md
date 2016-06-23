@@ -15,7 +15,9 @@
  
  
       `fb = FirebaseCls('https://boiling-fire-5734.firebaseio.com')`
+      
       `b = fb.post_object('pole', {'car': 'suv', 'number': 3})`
+      
        `print b == None`
         
  
